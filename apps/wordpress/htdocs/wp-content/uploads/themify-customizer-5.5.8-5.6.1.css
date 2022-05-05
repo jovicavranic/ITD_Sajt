@@ -1,0 +1,13 @@
+/* Themify Customize Styling */
+#headerwrap {	background: none;
+	background-color: rgba(36,36,36,0.83); 
+}
+#header {	
+	color: #faf7f7; 
+}
+#headerwrap a {	
+	color: #f7f2f2; 
+}
+#pagewrap #headerwrap.fixed-header, .transparent-header #pagewrap #headerwrap.fixed-header {	background: none;
+	background-color: rgba(36,36,36,0.36); 
+}
